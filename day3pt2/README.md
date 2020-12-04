@@ -1,4 +1,4 @@
-run day3 programm with follwoing parameters:
+run day3 programm with following parameters:
 
 -i input -r 1 -d 1
 -i input -r 3 -d 1 
