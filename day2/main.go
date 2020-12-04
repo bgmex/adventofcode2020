@@ -18,7 +18,7 @@ func main() {
 
 	file, err := os.Open(inputFile)
 
-	if err != err {
+	if err != nil {
 		fmt.Println(err)
 		return
 	}
